@@ -9,7 +9,7 @@ create innovative and creative solutions.
 
 ------------------------/
 
-Ciao 👋
+### Ciao 👋
 
 Sono appassionato di tecnologia fin da piccolo e recentemente ho
 deciso di rendere questa passione la mia carriera. Ho frequentato il
