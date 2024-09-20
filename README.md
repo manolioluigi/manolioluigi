@@ -4,7 +4,7 @@ I have been passionate about technology since I was a child and recently I have
 I decided to make this passion my career. I attended the
 course as Full-Stack Web Developer at Boolean and I acquired
 many skills and knowledge in the tech field. Now I'm at
-seeking opportunities to apply what I have learned e
+seeking opportunities to apply what I have learned and
 create innovative and creative solutions.
 
 ------------------------/
